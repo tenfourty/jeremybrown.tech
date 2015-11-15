@@ -2,7 +2,6 @@ baseurl = "http://www.tenfourty.com"
 languageCode = "en-us"
 title = "tenfourty.com"
 disqusShortname = "tenfourty"
-
 theme = "herring-cove"
 
 [params]
@@ -10,9 +9,11 @@ theme = "herring-cove"
   enableLandingPage = false
   landingPageRedirectUrl = "/about"
   AuthorName = "Jeremy Brown"
-  [params.links]
-    About = "/about/"
 #  twitter = "https://twitter.com/tenfourty"
 #  linkedin = "https://www.linkedin.com/in/tenfourty"
 #  facebook = "https://facebook.com/tenfourty"
 #  github = "https://github.com/tenfourty"
+  [params.links]
+    About = "/about/"
+    Posts = "/"
+#    Tags = "/tags/"
