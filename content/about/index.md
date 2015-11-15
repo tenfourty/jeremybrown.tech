@@ -9,9 +9,11 @@ title = "About"
 
 This is the per­sonal web­site of Jeremy Brown so the thoughts and opin­ions on this blog are my own and not nec­es­sar­ily those of my employer.
 
-I cur­rently work at Apigee where I lead the EMEA Pre­sales Engi­neer­ing team, here’s [my CV][1] if you want to know all the dry pro­fes­sional things about me; read on for the juicy stuff!<figure style="width: 388px;" class="wp-caption alignright">
+I cur­rently work at Apigee where I lead the EMEA Pre­sales Engi­neer­ing team, here’s [my CV][1] if you want to know all the dry pro­fes­sional things about me; read on for the juicy stuff!
 
-<img title="The 10/40 Window" src="http://upload.wikimedia.org/wikipedia/commons/5/57/40_Window_world_map.PNG" alt="The 10 / 40 Window" width="388" height="142" /><figcaption class="wp-caption-text">The 10 / 40 Window</figcaption></figure>
+![The 10/40 Window](/uploads/40_Window_world_map.png)
+
+The 10 / 40 Window
 
 **Why ten­fourty?** Peo­ple ask me that ques­tion so often I thought I’d answer that first. Ten­fourty is a vari­a­tion on the term “<a href="http://en.wikipedia.org/wiki/10/40_Window" target="_blank">the 10/40 Win­dow</a>”, which describes an area of the globe in the east­ern hemi­sphere located between 10 and 40 degrees north of the equa­tor (see map), an area that in 1990 was pur­ported to have the high­est level of socioe­co­nomic chal­lenges. I was born in this area and have spent most of my life grow­ing up, liv­ing, work­ing and trav­el­ling in this area so it seemed like a pretty good handle/nickname to me in the early 90s when you had to have a “han­dle” on dial up <a href="http://en.wikipedia.org/wiki/Bulletin_board_system" target="_blank">Bul­letin Board Sys­tems</a> I used to visit in pre-Internet days. Nowa­days with the advent of Face­book most peo­ple seem to use their real names, but I still like my delib­er­ately mis­spelt handle.
 
