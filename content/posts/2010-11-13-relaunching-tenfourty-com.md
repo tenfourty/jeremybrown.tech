@@ -15,4 +15,4 @@ This is my first blog post in quite some time. I used to have a per­sonal web­
 
 I prob­a­bly won’t update the site too often so please don’t be dis­ap­point­ed if I don’t blog too much, how­ever it is here and I guess I will occa­sion­ally write stuff or update the site.
 
-You can read more <a href="/about/" target="_self">about me</a>, or view <a href="https://www.linkedin.com/in/tenfourty" target="_self">my CV</a> (my Linked In account).
+You can read more [about me](/about/), or view [my CV](https://www.linkedin.com/in/tenfourty) (my Linked In account).
