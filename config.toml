@@ -9,7 +9,7 @@ theme = "herring-cove"
   posts = "/:year/:month/:day/:title/"
 
 [params]
-  ProfilePicture = "/tenfourty_1337687145_98.jpg"
+  ProfilePicture = "/ProfilePicture.jpg"
   enableLandingPage = false
   landingPageRedirectUrl = "/about"
   AuthorName = "Jeremy Brown"
