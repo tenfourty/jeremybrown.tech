@@ -2,6 +2,7 @@ baseurl = "http://www.tenfourty.com/"
 languageCode = "en-us"
 title = "tenfourty.com"
 disqusShortname = "tenfourty"
+GoogleAnalytics = "UA-70241202-1"
 theme = "herring-cove"
 
 [params]
