@@ -9,7 +9,7 @@ layout = "post"
 short-url = ["http://bit.ly/dWm4QX"]
 tags = ["EAP", "EWS", "HAProxy", "JBoss", "JDBC", "load balancer", "load balancing", "ODBC", "TCP", "Teiid"]
 title = "How to load balance TCP connections with HAProxy"
-url = "/2011/04/09/how-to-load-balance-tcp-connections-with-haproxy/"
+aliases = "/2011/04/09/how-to-load-balance-tcp-connections-with-haproxy/"
 
 +++
 

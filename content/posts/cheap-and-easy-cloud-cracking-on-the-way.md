@@ -9,7 +9,7 @@ layout = "post"
 short-url = ["http://bit.ly/fAhLFx"]
 tags = ["Amazon", "Cracking", "EC2", "GPU", "Hacker", "Wifi", "WPA"]
 title = "Cheap And Easy Cloud Cracking On The Way"
-url = "/2010/11/27/cheap-and-easy-cloud-cracking-on-the-way/"
+aliases = "/2010/11/27/cheap-and-easy-cloud-cracking-on-the-way/"
 
 +++
 

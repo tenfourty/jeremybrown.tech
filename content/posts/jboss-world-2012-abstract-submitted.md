@@ -8,8 +8,7 @@ dsq_thread_id = [2187672240]
 layout = "post"
 short-url = ["http://bit.ly/us13OW"]
 title = "JBoss World 2012 Abstract Submitted"
-url = "/2011/12/10/jboss-world-2012-abstract-submitted/"
-wpsd_autopost = [1]
+aliases = "/2011/12/10/jboss-world-2012-abstract-submitted/"
 
 +++
 

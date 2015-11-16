@@ -6,7 +6,7 @@ dsq_thread_id = [3978516980]
 layout = "post"
 tags = ["Docker", "kubernetes", "openshift"]
 title = "How to run OpenShift V3 on an existing Kubernetes Cluster"
-url = "/2015/07/28/how-to-run-openshift-v3-on-an-existing-kubernetes-cluster/"
+aliases = "/2015/07/28/how-to-run-openshift-v3-on-an-existing-kubernetes-cluster/"
 
 +++
 

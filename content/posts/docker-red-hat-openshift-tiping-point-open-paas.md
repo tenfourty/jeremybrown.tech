@@ -6,7 +6,7 @@ dsq_thread_id = [2489813011]
 layout = "post"
 tags = ["Docker", "open", "PaaS"]
 title = "Docker + Red Hat OpenShift = The Tipping Point for Open PaaS?"
-url = "/2013/09/27/docker-red-hat-openshift-tiping-point-open-paas/"
+aliases = "/2013/09/27/docker-red-hat-openshift-tiping-point-open-paas/"
 
 +++
 

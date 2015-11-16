@@ -7,8 +7,7 @@ format = "image"
 layout = "post"
 tags = ["desktop", "fedora", "mac", "open source", "os x"]
 title = "Why I’m moving my desktop from OS X to Fedora Linux"
-url = "/2014/09/10/why-im-moving-my-desktop-from-os-x-to-fedora-linux/"
-wp-to-buffer-success = [1]
+aliases = "/2014/09/10/why-im-moving-my-desktop-from-os-x-to-fedora-linux/"
 
 +++
 

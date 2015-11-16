@@ -6,7 +6,7 @@ dsq_thread_id = [2490005863]
 layout = "post"
 tags = ["PaaS"]
 title = "The Evolution of Paas and how this site was setup"
-url = "/2013/08/28/evolution-paas-site-setup/"
+aliases = "/2013/08/28/evolution-paas-site-setup/"
 
 +++
 

@@ -9,7 +9,7 @@ layout = "post"
 short-url = ["http://bit.ly/cn3cY1"]
 tags = ["Google", "How To", "Search", "Search Ranking", "Speed", "W3 Total Cache", "WordPress", "WP Super Cache"]
 title = "How to Optimise WordPress Performance for Search Ranking"
-url = "/2010/11/17/how-to-optimise-wordpress-performance-for-search-ranking/"
+aliases = "/2010/11/17/how-to-optimise-wordpress-performance-for-search-ranking/"
 
 +++
 

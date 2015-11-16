@@ -8,8 +8,7 @@ dsq_thread_id = [2097791482]
 layout = "post"
 short-url = ["http://bit.ly/t9iD0L"]
 title = "Open Sourcing my Linode StackScripts"
-url = "/2011/11/30/open-sourcing-my-linode-stackscripts/"
-wpsd_autopost = [1]
+aliases = "/2011/11/30/open-sourcing-my-linode-stackscripts/"
 
 +++
 

@@ -5,7 +5,7 @@ date = "2013-09-03"
 dsq_thread_id = [2019673108]
 layout = "post"
 title = "Checkmate, Nokia outwits Microsoft in the long game"
-url = "/2013/09/03/checkmate-nokia-outwits-microsoft-in-long-game/"
+aliases = "/2013/09/03/checkmate-nokia-outwits-microsoft-in-long-game/"
 
 +++
 

@@ -5,8 +5,7 @@ date = "2013-08-27"
 dsq_thread_id = [2019692574]
 layout = "post"
 title = "Is RSS dying?"
-url = "/2013/08/27/is-rss-dying/"
-wpsd_autopost = [1]
+aliases = "/2013/08/27/is-rss-dying/"
 
 +++
 

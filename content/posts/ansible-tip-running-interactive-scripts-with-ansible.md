@@ -6,7 +6,7 @@ dsq_thread_id = [3808905472]
 layout = "post"
 tags = ["ansible"]
 title = "Ansible Tip: Running Interactive Scripts with Ansible"
-url = "/2015/05/31/ansible-tip-running-interactive-scripts-with-ansible/"
+aliases = "/2015/05/31/ansible-tip-running-interactive-scripts-with-ansible/"
 
 +++
 

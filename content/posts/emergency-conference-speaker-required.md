@@ -8,8 +8,7 @@ dsq_thread_id = [2019672990]
 layout = "post"
 short-url = ["http://bit.ly/s9gsxQ"]
 title = "Emergency Conference Speaker Required!"
-url = "/2011/12/09/emergency-conference-speaker-required/"
-wpsd_autopost = [1]
+aliases = "/2011/12/09/emergency-conference-speaker-required/"
 
 +++
 

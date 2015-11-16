@@ -6,7 +6,7 @@ dsq_thread_id = [3797662898]
 format = "image"
 layout = "post"
 title = "Apigee not Apogee"
-url = "/2015/05/27/apigee-not-apogee/"
+aliases = "/2015/05/27/apigee-not-apogee/"
 
 +++
 

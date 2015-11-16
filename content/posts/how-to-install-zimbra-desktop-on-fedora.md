@@ -5,7 +5,7 @@ date = "2014-10-09"
 dsq_thread_id = [3100452983]
 layout = "post"
 title = "How To Install Zimbra Desktop on Fedora"
-url = "/2014/10/09/how-to-install-zimbra-desktop-on-fedora/"
+aliases = "/2014/10/09/how-to-install-zimbra-desktop-on-fedora/"
 
 +++
 

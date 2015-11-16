@@ -6,8 +6,7 @@ dsq_thread_id = [2490004657]
 layout = "post"
 tags = ["PaaS"]
 title = "Calculate the Business Benefits of PaaS"
-url = "/2013/08/29/calculate-business-benefits-of-paas/"
-wp-to-buffer-error = [1]
+aliases = "/2013/08/29/calculate-business-benefits-of-paas/"
 
 +++
 

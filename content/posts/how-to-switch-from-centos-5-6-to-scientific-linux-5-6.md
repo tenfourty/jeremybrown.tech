@@ -9,8 +9,7 @@ layout = "post"
 short-url = ["http://bit.ly/qs7OYY"]
 tags = ["CentOS", "How To", "Linux", "RHEL", "Scientific Linux"]
 title = "How-to Switch from CentOS 5.6 to Scientific Linux 5.6"
-url = "/2011/07/09/how-to-switch-from-centos-5-6-to-scientific-linux-5-6/"
-wpsd_autopost = [1]
+aliases = "/2011/07/09/how-to-switch-from-centos-5-6-to-scientific-linux-5-6/"
 
 +++
 

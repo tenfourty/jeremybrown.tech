@@ -9,8 +9,7 @@ layout = "post"
 short-url = ["http://bit.ly/ctNYRd"]
 tags = ["Camtel", "CDMA", "Creolink", "GPRS", "Internet", "ISP", "Low Bandwidth", "Matrix", "MTN", "Orange", "performance", "Ringo", "SCDMA", "Wifi", "Wimax"]
 title = "Do Cameroonian ISPs care about their customers?"
-url = "/2010/11/19/do-cameroonian-isps-care-about-their-customers/"
-wpsd_autopost = [1]
+aliases = "/2010/11/19/do-cameroonian-isps-care-about-their-customers/"
 
 +++
 

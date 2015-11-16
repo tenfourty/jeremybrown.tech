@@ -7,7 +7,7 @@ dsq_thread_id = [2019672974]
 layout = "post"
 short-url = ["http://bit.ly/a9vARg"]
 title = "Relaunching tenfourty.com"
-url = "/2010/11/13/relaunching-tenfourty-com/"
+aliases = "/2010/11/13/relaunching-tenfourty-com/"
 
 +++
 
