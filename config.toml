@@ -1,4 +1,4 @@
-baseurl = "http://www.tenfourty.com/"
+baseurl = "/"
 languageCode = "en-us"
 title = "tenfourty.com"
 disqusShortname = "tenfourty"
@@ -6,7 +6,7 @@ GoogleAnalytics = "UA-70241202-1"
 theme = "herring-cove"
 
 [permalinks]
-  posts = "/:year/:month/:day/:title/"
+  posts = ":year/:month/:day/:title/"
 
 [params]
   ProfilePicture = "/ProfilePicture.jpg"
@@ -18,6 +18,6 @@ theme = "herring-cove"
 #  facebook = "https://facebook.com/tenfourty"
 #  github = "https://github.com/tenfourty"
   [params.links]
-    About = "/about/"
-    Posts = "/"
+    About = "about/"
+#    Posts = "/"
 #    Tags = "/tags/"
