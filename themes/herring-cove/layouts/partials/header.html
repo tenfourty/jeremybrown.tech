@@ -47,13 +47,13 @@
        <!-- Sidebar -->
        <div id="sidebar-wrapper">
         <ul class="sidebar-nav">
+					<!--<img src="{{ .Site.Params.ProfilePicture }}" />-->
           <li class="sidebar-brand"><a href="{{ .Site.BaseURL }}/"><h1 class="brand">{{ .Site.Title }}</h1></a><h3>{{ .Site.Params.Description }}</h3></li>
           <hr />
 					{{range $key, $element := .Site.Params.links}}
 						<li><a href="{{ $baseUrl }}{{ $element }}">{{title $key }} </a></li>
 					{{ end }}
           <hr />
-          <!--<img src="{{ .Site.Params.ProfilePicture }}" />-->
           <script src="//about.me/embed/tenfourty?bio=0"></script>
           <div id="social-wrapper">
            {{ with .Site.Params.twitter }}<li> <a href="{{.}}"><i class="fa fa-twitter-square"></i> @twitter</a></li>{{end}}
