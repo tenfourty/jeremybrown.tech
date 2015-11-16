@@ -12,6 +12,8 @@ aliases = "/2013/08/28/evolution-paas-site-setup/"
 
 ![The evolution of PaaS and Guybrush Threepwood](/uploads/evolution_of_guybrush_threepwood.png)
 
+**[Update I've recently moved to a static website based on Hugo and hosted on Netlify](/2015/11/16/moving-from-wordpress-to-a-static-site-using-hugo-and-netlify/)**
+
 As I’m a bit of a geek at heart and because I’m a major fan of open source I really wanted to host this web­site on an open source PaaS using as much open source soft­ware so I decided to use my favourite blog­ging soft­ware [Word­Press][1] and host it on [Open­Shift Online][2]. While I was putting this blog together I realised just how far things have come when it comes to set­ting up your own web­site, but before I dive into the evo­lu­tion of host­ing that has got­ten us to PaaS let me show you exactly why I think PaaS is so magic by tak­ing you through the three sim­ple steps it took to set up a Word­Press blog on the domain www.themiddlewareman.org.
 
 **Step 1.** Reg­is­ter the domain (I use [Gandi][3]). This took just a cou­ple of min­utes includ­ing pay­ing by credit card.
