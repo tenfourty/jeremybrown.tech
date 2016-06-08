@@ -31,7 +31,7 @@ So off I went down to my local Apple store to get one and I've set it up like th
                       ▲                         
                       │                         
             ┌───────────────────┐               
-        ┌──▶│HMDI Auto Switcher │◀──┐           
+        ┌──▶│HDMI Auto Switcher │◀──┐           
         │   └───────────────────┘   │           
 ┌──────────────┐            ┌───────────────┐   
 │ TV Receiver  │            │  Apple TV 4   │   
