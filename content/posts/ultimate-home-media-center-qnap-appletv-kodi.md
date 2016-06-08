@@ -7,7 +7,7 @@ title = "Building the Ultimate Home Media Center with the new AppleTV 4, Plex/Ko
 
 +++
 
-*TL;DR; The Apple TV 4 can run Kodi (XBMC) directly and play all my Movies, TV Shows and Music from my QNAP NAS. It's quite a sweet setup.*
+*TL;DR; The Apple TV 4 can run Plex or Kodi (XBMC) directly and play all my Movies, TV Shows and Music from my QNAP NAS. It's quite a sweet setup.*
 
 I've finally had a bit of time to work on a project I've had on my back burner for quite some time, building a home entertainment system to play all of my movies and TV series that I've got on my NAS.
 
