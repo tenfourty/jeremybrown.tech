@@ -1,5 +1,4 @@
 +++
-aktt_notify_twitter = [true]
 author = "Jeremy Brown"
 categories = ["Blog Posts"]
 date = "2010-11-13"

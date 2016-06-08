@@ -1,5 +1,4 @@
 +++
-aktt_notify_twitter = [true]
 author = "Jeremy Brown"
 date = "2010-11-13"
 layout = "page"
@@ -24,4 +23,3 @@ I love all sorts of sports and have done a few seriously. I learnt to row while 
 I’ve been riding motorbikes for years and this passion culminated in taking a sabbatical, while working at Accenture, to ride through Africa on a motorbike during 2008. Check out [www.2wheels2africa.com](http://www.2wheels2africa.com/) for more information on that adventure.
 
 I also enjoy following the other football team from Manchester, [Man City](http://www.mcfc.co.uk/). I developed a taste for the roller coaster ride that is being a City fan while at University in Manchester when they were yo-yoing between the divisions.
-

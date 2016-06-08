@@ -1,6 +1,4 @@
 +++
-aktt_notify_twitter = [true]
-aktt_tweeted = [1]
 author = "Jeremy Brown"
 categories = ["Africa", "Blog Posts", "Cameroon", "Technology"]
 date = "2010-11-19"
