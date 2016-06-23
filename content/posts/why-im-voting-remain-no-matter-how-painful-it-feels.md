@@ -22,6 +22,6 @@ The thing is the EU is broken and dysfunctional as an organisation, there are go
 
 This article makes a great point - [Take it from a divorcee: Brexit will cost you dear](http://blogs.spectator.co.uk/2016/06/divorcing-europe/). The grass is not greener on the other side, if anything this campaign has revealed just how many issues we have in the UK, leaving the EU is not going to help us solve any of them.
 
-Finally, if some of these logical points don't get you over to the remain side of the house I hope some humour will! I found this video by John Oliver both hilarious and insightful.
+Finally, if some of these logical points don't get you over to the remain side of the house I hope some humour will! I found [this video by John Oliver both hilarious and insightful](https://www.youtube.com/watch?v=iAgKHSNqxa8).
 
 {{< youtube iAgKHSNqxa8 >}}
