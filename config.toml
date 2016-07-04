@@ -9,10 +9,11 @@ theme = "herring-cove"
   posts = "/:year/:month/:day/:title/"
 
 [params]
-  ProfilePicture = "/ProfilePicture.jpg"
-  enableLandingPage = false
-  landingPageRedirectUrl = "/about"
-  AuthorName = "Jeremy Brown"
+  profilepicture = "/ProfilePicture.jpg"
+  enablelandingpage = false
+  landingpageredirecturl = "/about"
+  authorname = "Jeremy Brown"
+  copyright = "2016"
 #  twitter = "https://twitter.com/tenfourty"
 #  linkedin = "https://www.linkedin.com/in/tenfourty"
 #  facebook = "https://facebook.com/tenfourty"
