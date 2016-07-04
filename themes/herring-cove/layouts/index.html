@@ -14,7 +14,7 @@
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
       <![endif] d-->
-
+  {{ template "_internal/google_analytics_async.html" . }}
 </head>
 	<body>
 	{{ if eq .Site.Params.enableLandingPage true}}
@@ -25,7 +25,7 @@
 		</div>
 	</div>
 	{{ else }}
-		{{ template "theme/partials/header.html" . }}
+  {{ template "theme/partials/navbar_sidebar.html" . }}
   <div id="article">
       <h1>{{.Title}}</h1>
   <ul class="posts">
@@ -34,7 +34,4 @@
       {{ end }}
   </ul>
   {{ end }}
-  {{ template "theme/partials/footer.html" }}
-  {{ template "_internal/google_analytics_async.html" . }}
-  </body>
-</html>
+  {{ template "theme/partials/footer.html" . }}
