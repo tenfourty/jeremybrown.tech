@@ -3,7 +3,7 @@ author = "Jeremy Brown"
 categories = ["Blog Posts"]
 date = "2014-10-09"
 dsq_thread_id = [3100452983]
-layout = "post"
+type = "post"
 title = "How To Install Zimbra Desktop on Fedora"
 aliases = "/2014/10/09/how-to-install-zimbra-desktop-on-fedora/"
 

@@ -1,8 +1,9 @@
 +++
-Categories = []
+categories = ["Blog Posts", "Developer", "Technology"]
 Description = ""
 Tags = []
 date = "2016-06-08T16:06:49+02:00"
+type = "post"
 title = "Building the Ultimate Home Media Center with the new AppleTV 4, Plex/Kodi and a QNAP NAS"
 slug = "ultimate-home-media-center-qnap-appletv-kodi"
 aliases = "/2016/06/08/building-the-ultimate-home-media-center-with-the-new-appletv-4-plex/kodi-and-a-qnap-nas/"

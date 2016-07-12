@@ -3,7 +3,7 @@ author = "Jeremy Brown"
 categories = ["Blog Posts"]
 date = "2015-05-26"
 dsq_thread_id = [3795765956]
-layout = "post"
+type = "post"
 title = "Fixing the fonts on my new MacBook Pro 13″ Retina on external displays"
 aliases = "/2015/05/26/fixing-the-fonts-on-my-new-macbook-pro-13-retina-on-external-displays/"
 

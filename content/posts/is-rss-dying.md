@@ -3,7 +3,7 @@ author = "Jeremy Brown"
 categories = ["Blog Posts"]
 date = "2013-08-27"
 dsq_thread_id = [2019692574]
-layout = "post"
+type = "post"
 title = "Is RSS dying?"
 aliases = "/2013/08/27/is-rss-dying/"
 

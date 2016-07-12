@@ -2,9 +2,9 @@
 author = "Jeremy Brown"
 categories = ["Blog Posts"]
 date = "2010-11-14"
-layout = "post"
 short-url = ["http://bit.ly/9Xdvxd"]
 title = "tenfourty.com on the Way Back Machine"
+type = "post"
 aliases = "/2010/11/14/tenfourty-com-on-the-way-back-machine/"
 
 +++

@@ -5,6 +5,7 @@ Description = ""
 Tags = []
 date = "2015-11-29T21:13:13+01:00"
 title = "DIY API Management, Seriously?"
+type = "post"
 draft = true
 
 +++

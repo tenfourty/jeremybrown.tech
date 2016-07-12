@@ -1,9 +1,10 @@
 +++
-Categories = []
+categories = ["Blog Posts", "Developer", "Technology"]
 Description = ""
 Tags = []
 date = "2015-11-16T21:04:09Z"
 title = "Moving from WordPress to a static site using Hugo and Netlify"
+type = "post"
 
 +++
 

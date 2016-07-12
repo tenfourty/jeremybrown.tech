@@ -1,8 +1,10 @@
 +++
-Categories = []
+categories = ["Blog Posts", "Personal", "Opinion"]
 Description = ""
 Tags = []
 date = "2016-06-23T11:56:23+02:00"
+type = "post"
+format = "image"
 title = "Why I'm voting remain, no matter how painful it feels"
 slug = "why-im-voting-remain-no-matter-how-painful-it-feels"
 
@@ -11,6 +13,8 @@ slug = "why-im-voting-remain-no-matter-how-painful-it-feels"
 ![Vote Remain Placards](/vote-remain.jpg)
 
 Today I voted in the UK's EU Referendum to remain in the EU, and it really irked me because there are *many* things that are broken in the EU.
+
+<!--more-->
 
 In the end it came down to couple main things:
 

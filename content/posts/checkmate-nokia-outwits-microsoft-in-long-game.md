@@ -3,7 +3,7 @@ author = "Jeremy Brown"
 categories = ["Blog Posts"]
 date = "2013-09-03"
 dsq_thread_id = [2019673108]
-layout = "post"
+type = "post"
 title = "Checkmate, Nokia outwits Microsoft in the long game"
 aliases = "/2013/09/03/checkmate-nokia-outwits-microsoft-in-long-game/"
 

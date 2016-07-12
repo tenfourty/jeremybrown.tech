@@ -3,9 +3,10 @@ author = "Jeremy Brown"
 categories = ["Architect", "Platform"]
 date = "2013-09-27"
 dsq_thread_id = [2489813011]
-layout = "post"
+type = "post"
 tags = ["Docker", "open", "PaaS"]
 title = "Docker + Red Hat OpenShift = The Tipping Point for Open PaaS?"
+url = "/2013/09/27/docker-red-hat-openshift-tipping-point-open-paas/"
 aliases = "/2013/09/27/docker-red-hat-openshift-tiping-point-open-paas/"
 
 +++
@@ -18,6 +19,8 @@ _What if you could wrap up your appli­ca­tion in a light­weight con­tainer a
 _What if you could choose your  lan­guage and run­time envi­ron­ment (Ruby, Python, JEE, JavaScript, etc) and have it pro­vi­sioned with your appli­ca­tion code? with full life-cycle man­age­ment? with auto scal­ing? sup­ported by the ven­dor behind the tech­nol­ogy? on any PaaS?_
 
 **TL;DR ver­sion** — Docker is an awe­some way to con­tainer­ise any appli­ca­tion run­ning on Linux, but it has some short­falls. Red Hat’s col­lab­o­ra­tion with dot­Cloud the com­pany behind Docker will fix these and allow Docker run on almost any dis­tri­b­u­tion of Linux (includ­ing RHEL and it’s deriv­a­tives). They will also inte­grate the tech­nol­ogy that under­pins the Open­Shift PaaS (car­tridges) so that the life­cy­cle of an appli­ca­tion run­time can be man­aged. Mean­ing your appli­ca­tion will even­tu­ally be able to run any­where on your infra­struc­ture or on the cloud with no changes — cool eh?
+
+<!--more-->
 
 I believe that the announced part­ner­ship last week by Red Hat and dot­Cloud to get Docker work­ing on Fedora/RHEL and into Open­Shift may actu­ally make some of the what if’s above a real­ity. Though the news hasn’t hit the major tech news head­lines this really is the tip­ping point for Open PaaS to even­tu­ally win against the future that is being pushed on us by the proprietary/closed source ven­dors with their siloed approach to the world.
 
