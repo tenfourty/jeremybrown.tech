@@ -10,7 +10,7 @@ paginate = "20"
   name = "Jeremy Brown"
 
 [permalinks]
-  posts = "/:year/:month/:day/:title/"
+  post = "/:year/:month/:day/:title/"
 
 [taxonomies]
     # Optional. Use if you want tags and lists.
