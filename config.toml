@@ -23,8 +23,8 @@ paginate = "20"
   truncate = true
 
   # Used when a given page doesn't set its own.
-  defaultDescription = "Your default page description"
-  defaultKeywords = "your,default,page,keywords"
+  defaultDescription = "This is a page on www.tenfourty.com"
+  defaultKeywords = "tenfourty,jeremy brown,jeremy"
 
   # Hide estimated reading time for posts.
   # Default (if omitted) is false.
