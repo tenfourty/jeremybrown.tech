@@ -1,8 +1,8 @@
 +++
 categories = ["Blog Posts", "APIs", "Technology"]
 date = "2016-07-13T15:08:39+02:00"
-description = ""
-keywords = []
+description = "I've hacked together a Hugo shortcode that allows you to embed OpenAPI Spec (fka Swagger) into your Hugo site."
+keywords = ["Hugo", "OpenAPI", "Swagger", "Swagger-UI", "OpenAPI Spec"]
 title = "New OpenAPI Specification Shortcode for Hugo"
 slug = "new-open-api-spec-shortcode-for-hugo"
 type = "post"
