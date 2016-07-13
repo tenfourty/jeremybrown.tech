@@ -1,6 +1,6 @@
 +++
 author = "Jeremy Brown"
-Categories = ["Blog Posts"]
+Categories = ["Blog Posts", "APIs", "Technology"]
 Description = ""
 Tags = []
 date = "2015-11-29T21:13:13+01:00"

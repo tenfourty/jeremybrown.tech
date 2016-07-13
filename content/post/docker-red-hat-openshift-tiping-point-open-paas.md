@@ -1,6 +1,6 @@
 +++
 author = "Jeremy Brown"
-categories = ["Architect", "Platform"]
+categories = ["Architect", "Platform", "Technology", "Opinion"]
 date = "2013-09-27"
 dsq_thread_id = [2489813011]
 type = "post"

@@ -1,6 +1,6 @@
 +++
 author = "Jeremy Brown"
-categories = ["Africa", "Blog Posts", "Cameroon", "Technology"]
+categories = ["Africa", "Blog Posts", "Cameroon", "Technology", "Opinion"]
 date = "2010-11-19"
 dsq_thread_id = [2019673048]
 type = "post"
