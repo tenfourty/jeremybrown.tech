@@ -25,4 +25,4 @@ There are just two options:
 
 The resulting output will look like the page below.
 
-{{< oai-spec url="/petstore-swagger-io/v2/swagger.json" api_key="special-key">}}
+{{< oai-spec url="https://petstore.swagger.io/v2/swagger.json" api_key="special-key">}}
