@@ -56,7 +56,7 @@
               window.SwaggerTranslator.translate();
             }
 
-            $("pre code").each(function(i, e) {
+            $(&#39;pre code&#39;).each(function(i, e) {
               hljs.highlightBlock(e)
             });
 
@@ -74,7 +74,7 @@
         });
 
         function addApiKeyAuthorization(){
-          var key = encodeURIComponent($("#input_apiKey")[0].value);
+          var key = encodeURIComponent($(&#39;#input_apiKey&#39;)[0].value);
           if(key && key.trim() != "") {
               var apiKeyAuth = new SwaggerClient.ApiKeyAuthorization("api_key", key, "query");
               window.swaggerUi.api.clientAuthorizations.add("api_key", apiKeyAuth);
@@ -82,18 +82,18 @@
           }
         }
 
-        $("#input_apiKey").change(addApiKeyAuthorization);
+        $(&#39;#input_apiKey&#39;).change(addApiKeyAuthorization);
 
         {{ with .Get "api_key" }}
         // if you have an apiKey you would like to pre-populate on the page for demonstration purposes...
         var apiKey = "{{ . }}";
-        $("#input_apiKey").val(apiKey);
+        $(&#39;#input_apiKey&#39;).val(apiKey);
         {{ end }}
 
         window.swaggerUi.load();
 
         function log() {
-          if ("console" in window) {
+          if (&#39;console&#39; in window) {
             console.log.apply(console, arguments);
           }
         }
