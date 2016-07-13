@@ -6,7 +6,7 @@ keywords = []
 title = "New OpenAPI Specification Shortcode for Hugo"
 slug = "new-open-api-spec-shortcode-for-hugo"
 type = "post"
-draft = "true"
+draft = "false"
 
 +++
 
