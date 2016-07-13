@@ -6,7 +6,7 @@ info:
   description: Move your app forward with the Uber API
   version: "1.0.0"
 # the domain of the service
-host: https://api.uber.com
+host: api.uber.com
 # array of all schemes that your API supports
 schemes:
   - https
