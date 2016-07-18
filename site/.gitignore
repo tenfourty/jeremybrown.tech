@@ -1,4 +1,4 @@
-site/public
+public
 *.swp
 *.swo
 .DS_Store
