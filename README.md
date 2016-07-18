@@ -10,7 +10,7 @@ To run this site locally:
 > $ docker-compose up
 
 Or to build the image run:
-> $ docker build -t tenfourty/tenfourty-com .
+> $ docker build -t tenfourty/tenfourty.com .
 
 And then to run it as a daemon run:
-> $ docker run -d -p 1313:1313 -v [path to this dir]/site/:/site tenfourty/tenfourty-com
+> $ docker run -d -p 1313:1313 -v [path to this dir]/site/:/site tenfourty/tenfourty.com
