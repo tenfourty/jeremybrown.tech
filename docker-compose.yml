@@ -1,0 +1,9 @@
+version: "2"
+
+services:
+  tenfourty-com:
+    build: .
+    volumes:
+    - ./site:/site
+    ports:
+    - "1313:1313"
