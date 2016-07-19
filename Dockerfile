@@ -1,2 +1,2 @@
-FROM tenfourty/hugo-alpine-onbuild
+FROM tenfourty/hugo-alpine-onbuild:latest
 MAINTAINER Jeremy Brown <jeremy@tenfourty.com>

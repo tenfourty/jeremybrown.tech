@@ -1,0 +1,37 @@
+version: "2"
+
+services:
+  ingress-lb:
+    depends_on:
+    - tenfourty-com
+    image: nginx:stable-alpine
+    volumes:
+    - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    - ./nginx/dev.server.conf:/etc/nginx/server.conf:ro
+    - ./nginx/ssl-certs.conf:/etc/nginx/ssl-certs.conf:ro
+    - ./nginx/ssl.conf:/etc/nginx/ssl.conf:ro
+    - ./nginx/dhparam.dev.pem:/etc/nginx/dhparam.pem:ro
+    - ./nginx/tenfourty.com-selfsigned.crt:/etc/nginx/tenfourty.com.crt
+    - ./nginx/tenfourty.com-selfsigned.key:/etc/nginx/tenfourty.com.key
+    networks:
+    - tenfourty-com-net
+    ports:
+    - "80:80"
+    - "443:443"
+
+
+  tenfourty-com:
+    build: .
+    image: tenfourty/tenfourty.com
+    # TODO - add when hugo bug is fixed "--meminterval=1h", "--memstats=/dev/stdout"
+    command: ["hugo", "server", "--bind", "0.0.0.0", "--baseURL=http://tenfourty-com/", "--port=80", "--appendPort=false", "--watch=false", "--cleanDestinationDir", "--disableLiveReload=true" ]
+    volumes:
+    - ./site:/site
+    networks:
+    - tenfourty-com-net
+    expose:
+    - "80"
+
+
+networks:
+  tenfourty-com-net:

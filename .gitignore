@@ -3,3 +3,4 @@ site/public
 *.swo
 .DS_Store
 *~
+*.dab

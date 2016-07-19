@@ -1,8 +1,9 @@
 version: "2"
 
 services:
-  tenfourty.com:
+  tenfourty-com:
     build: .
+    image: tenfourty/tenfourty.com
     volumes:
     - ./site:/site
     ports:
