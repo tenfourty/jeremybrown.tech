@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/tenfourty
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.tenfourty.com
+  * I am tenfourty (https://keybase.io/tenfourty) on keybase.
+  * I have a public key with fingerprint 9BD8 DA8A 84E5 923E 8F53  D9A2 D0C3 7DC7 1823 3E6F
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01015ac73d2ba10ea7b43c36f7bd7a77d6cc5eb0db2326bd77f839601e4887e0cec70a",
+            "fingerprint": "9bd8da8a84e5923e8f53d9a2d0c37dc718233e6f",
+            "host": "keybase.io",
+            "key_id": "d0c37dc718233e6f",
+            "kid": "01015ac73d2ba10ea7b43c36f7bd7a77d6cc5eb0db2326bd77f839601e4887e0cec70a",
+            "uid": "e30c8ce8fd9c86fb1206e9a602108619",
+            "username": "tenfourty"
+        },
+        "service": {
+            "hostname": "www.tenfourty.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1473153205,
+    "expire_in": 157680000,
+    "prev": "13d84583da9a33df364cbe88d8af0a4895f1fed8c7b12d26895942bffe53fe21",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIqAnicrZJbSBVBGMeP6emiCV1Bk0gXKiqz3Z3dndkNrOj2EGTS1TROszOzuqhn
+T3v2aKanB5MuRJQVlGVG9VBQERWBmJy0MqIoyOjeQ0IPnXyJzBeTbFaspx6bl2H+
+8/v+8/8+5mFmaiA9ZSB48rEtH3ud8rT7XCyw9fnBO/WC6dA6wagXKtnoxqooi3qh
+SpsKhiBKoqRiAgGVTSyJDENTAQRoFjQpxBBSjRCVmSI1ZSBrXIMWAromSkxBCDKR
+MAJFLOQLlh0uZ27EtcMet9VNiihGGClM1WXAkKUCqmOZigRASqCEZACYZvHCCifq
+V/BwJo6yAtvhGj+ERuP9g//PuWOjdgyIBBEek+oEaZYpyaLGdKyJsiQiTdJ9MMrc
+MK5mnPZY2HJirlcnxPMFLtfYhPmT9VsZQ2prawv+YgXEqeYOEdfxHOJU8esKz4tE
+Db/cq4uM8swMjTmFTDtM+TR5RQ1zo7YTFgyJk8SzfWtJgUBSgSyq+QLbHbFdFrJ9
+QoUaEvny32E13FICFCkqAhTrGABqAU0hJkOIImyJWEG6akkWo4hA3i6VNS7oimxa
+FlOBxWRJ8HvbFXYEA/KYuJxbRu3yMPZiLhPi97vK0gIp6YHxwXH+LwukT5ry5+9d
+bpwwnNHRnTPlwuDhZeuakh2rjd7xsOPoxZIZnxqHmoq/oJ6c2MwjE09s+vEzcWUk
+qz3Z/90Itp7flmUXZmwu1VqmKZm5c94V7iheNDww/9TVwCelS19/2uo40PL2QteK
+V/v7E/nZD4zZzW8q4zvltpt6zzcw0v3u69281evWdBVVLN+Yde3ZvXhy/vJ9ezZd
+OrxhSzSRmz2ruazq0O0lecFfPYmyCTm3eitmrm/eusTzevs+7xlcmjZ36pmSlfP0
+lwsGiqa3GX2dyaH2fQsn60031uZmNgsaO36D7i3dfv9JCF7NO7v4g3Q9NfkoEfw4
+b/GJgaUvOhuM1s3vU1tWudVFlVlxu2Htb9q9QUo=
+=Ew+a
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tenfourty
+
+==================================================================
+
