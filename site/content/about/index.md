@@ -24,6 +24,7 @@ I occasionally blog on this website, but I'm most active on [Twitter](https://tw
 
 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
 <script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/tenfourty" data-format="inline" data-related="false"></script>
+</br>
 
 **CV for geeks**
 
