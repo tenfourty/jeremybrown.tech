@@ -40,7 +40,7 @@ paginate = "20"
   highlight = "solarized_dark"
 
   # Optional additional custom CSS file URL, will override other styles.
-  customCSS = ""
+  customCSS = "/css/sharingbuttons.css"
 
   # Displays under the author name in the sidebar, keep it short.
   # You can use markdown here.
