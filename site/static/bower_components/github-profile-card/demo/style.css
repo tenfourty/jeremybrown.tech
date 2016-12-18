@@ -1,0 +1,119 @@
+/* Demo styles */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F4EADE;
+  max-width: 650px;
+  margin: 10px auto;
+  font-family: Helvetica, serif;
+}
+
+.config-section-left,
+.config-section-right {
+  float: left;
+  max-width: 200px;
+}
+
+.content-section {
+  float: left;
+}
+
+.tooltip {
+  position: relative;
+  display: block;
+  box-shadow: 0 0 3px 1px #BBB;
+  background: #FFF;
+  border: 1px solid #999;
+  padding: 2px 7px;
+  margin-top: 15px;
+  margin-right: 15px;
+}
+
+.tooltip::before {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 10px;
+  height: 10px;
+  right: -6px;
+  top: 6px;
+  background: inherit;
+  border-right: 1px solid;
+  border-bottom: 1px solid;
+  border-color: inherit;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+}
+
+.config-section-right {
+  position: relative;
+  top: 125px;
+}
+
+.config-section-right .tooltip {
+  margin-left: 15px;
+}
+
+.config-section-right .tooltip::before {
+  left: -6px;
+  right: auto;
+
+  border: none;
+  border-top: 1px solid;
+  border-left: 1px solid;
+  border-color: inherit;
+}
+
+input[type="text"],
+input[type="number"] {
+  border: none;
+  max-width: 100px;
+  padding-right: 5px;
+  font-size: 0.7em;
+}
+
+input[type="number"] {
+  max-width: 50px;
+}
+
+input[type="submit"] {
+  background: #D14836;
+  color: #FFF;
+  border: none;
+  border-radius: 3px;
+  padding: 3px 5px;
+  font-size: 0.7em;
+}
+
+label {
+  font-size: 0.7em;
+}
+.choose-repo-sorting {
+  position: relative;
+  top: 80px;
+}
+
+.choose-repo-sorting [type="radio"] {
+  display: none;
+}
+
+.active {
+  font-weight: bold;
+}
+
+.readme {
+  max-width: 280px;
+  line-height: 1.5;
+  color: #666;
+
+  padding: 0 10px;
+}
+
+.readme a {
+  color: #4183C4;
+  text-decoration: none;
+}

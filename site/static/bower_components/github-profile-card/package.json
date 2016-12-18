@@ -1,0 +1,43 @@
+{
+  "name": "github-profile-card",
+  "version": "1.2.0",
+  "description": "Widget for presenting your GitHub profile on your website. Pure JavaScript.",
+  "main": "dist/github-profile-card.js",
+  "devDependencies": {
+    "bower": "1.7.9",
+    "del": "2.2.2",
+    "gulp": "3.9.1",
+    "gulp-autoprefixer": "3.1.1",
+    "gulp-clean": "0.3.2",
+    "gulp-concat": "2.6.0",
+    "gulp-jshint": "2.0.1",
+    "gulp-livereload": "3.8.1",
+    "gulp-minify-css": "1.2.4",
+    "gulp-notify": "2.2.0",
+    "gulp-rename": "1.2.2",
+    "gulp-sass": "2.3.2",
+    "gulp-uglify": "2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piotrl/github-profile-card.git"
+  },
+  "keywords": [
+    "github",
+    "widget",
+    "vanilla",
+    "javascript"
+  ],
+  "author": "Piotr Lewandowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piotrl/github-profile-card/issues"
+  },
+  "homepage": "https://github.com/piotrl/github-profile-card",
+  "dependencies": {
+    "jshint": "^2.9.2"
+  }
+}

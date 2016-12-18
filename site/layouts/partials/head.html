@@ -10,8 +10,8 @@
   <title>{{ .Title }} &middot; {{ .Site.Author.name }}</title>
 
 
-<script type="text/javascript" src="/bower_components/github-profile-card/dist/gh-profile-card.js"></script>
-<link rel="stylesheet" href="/bower_components/github-profile-card/dist/gh-profile-card.css" />
+  <script type="text/javascript" src="{{ "/bower_components/github-profile-card/dist/gh-profile-card.js" | absURL }}"></script>
+  <link rel="stylesheet" href="{{ "/bower_components/github-profile-card/dist/gh-profile-card.css" | absURL }}" />
 
   <!-- CSS -->
   {{ with .Site.Params.customCSS }}<link rel="stylesheet" href="{{ . | absURL }}">{{ end }}
