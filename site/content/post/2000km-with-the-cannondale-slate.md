@@ -5,8 +5,8 @@ Description = "I've had my Cannondale Slate Force CX1 for almost exactly a year 
 date = "2016-12-29T03:06:47Z"
 draft = "false"
 keywords = ["Cannondale", "Slate", "Cannondale Slate Force CX1", "Force CX1", "CX1", "Review"]
-slug = ""
-title = "2000km With the Cannondale Slate"
+title = "2000 km with the Cannondale Slate"
+aliases = ["/2016/12/29/2000km-with-the-cannondale-slate/"]
 type = "post"
 format = "image"
 
@@ -42,7 +42,7 @@ After a long hunt for a Cannondale dealer that had one in stock, I placed an ord
 
 ### Early rides and first impressions
 
-I couldn't wait to get out on the bike and test it for real (there is only so much a short test ride in the city can tell you) and the Slate did not disappoint at all! 
+I couldn't wait to get out on the bike and test it for real (there is only so much a short test ride in the city can tell you) and the Slate did not disappoint at all!
 
 {{< figure src="/img/slate/IMG_3414.jpg" caption="First Ride" >}}
 
@@ -52,7 +52,7 @@ The only problem I had on my first ride was a flat tyre at the end, a sign of th
 
 ### Six Stock Items I Changed
 
-Here, in order, are the six main changes I've made to my bike since I got it [(tracked on Strava)](https://www.strava.com/bikes/2574767). 
+Here, in order, are the six main changes I've made to my bike since I got it [(tracked on Strava)](https://www.strava.com/bikes/2574767).
 
 #### 1 - Go Tubeless!
 One of the first things I did was to go tubeless, the stock tyres and rims are tubeless ready, but it comes with inner tubes fitted. **If there is only one thing you do with the stock Slate please for the love of god go tubeless.** The stock tyres are made by Panaracer and are super fast and (nearly) slick with soft rubber - great for speed, pretty good for trails and off-road but they are easily punctured.
@@ -125,7 +125,7 @@ If you can afford it and ride off-road or for long distances I can't recommend t
 
 ### Is it too heavy?
 
-The aluminium framed Slate might be a bit heavier at about 9kg than an all-carbon bike, but it handles well on all surfaces and is just pure fun. I've never been dropped by someone riding a lighter bike because their bike is 2kg lighter, it's always because I'm a fat b**tard and less fit than the other rider. 
+The aluminium framed Slate might be a bit heavier at about 9kg than an all-carbon bike, but it handles well on all surfaces and is just pure fun. I've never been dropped by someone riding a lighter bike because their bike is 2kg lighter, it's always because I'm a fat b**tard and less fit than the other rider.
 
 ### What about that odd looking Lefty Fork?
 
