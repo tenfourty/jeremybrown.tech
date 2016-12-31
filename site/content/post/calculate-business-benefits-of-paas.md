@@ -1,6 +1,6 @@
 +++
 author = "Jeremy Brown"
-categories = ["CTO"]
+categories = ["Blog Posts", "Technology", "CTO"]
 date = "2013-08-29"
 dsq_thread_id = [2490004657]
 type = "post"
