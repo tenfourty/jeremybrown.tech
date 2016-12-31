@@ -6,13 +6,21 @@ themesDir = "site/themes"
 publishDir = "site/public"
 staticDir = "site/static"
 i18nDir = "site/i18n"
-baseurl = "https://www.tenfourty.com"
-languageCode = "en-us"
+baseURL = "https://www.tenfourty.com"
 title = "tenfourty.com"
 disqusShortname = "tenfourty"
 GoogleAnalytics = "UA-70241202-1"
 theme = "hyde-x"
 paginate = "20"
+
+languageCode = "en"
+DefaultContentLanguage = "en"
+
+[Languages]
+[Languages.en]
+  title = "tenfourty.com"
+  weight = 1
+[Languages.en.params]
 
 [author]
   name = "Jeremy Brown"
@@ -21,8 +29,9 @@ paginate = "20"
   post = "/:year/:month/:day/:title/"
 
 [taxonomies]
-    # Optional. Use if you want tags and lists.
-    category = "categories"
+  # Optional. Use if you want tags and lists.
+  category = "categories"
+  tag = "tags"
 
 [params]
   # If false display full article contents in blog index.
@@ -48,19 +57,19 @@ paginate = "20"
   highlight = "solarized_dark"
 
   # Optional additional custom CSS file URL, will override other styles.
-  customCSS = ""
+  customCSS = "/css/sharingbuttons.css"
 
-  # Displays under the author name in the sidebar, keep it short.
-  # You can use markdown here.
-  tagline = "Adventurer and Geek"
+  # Metadata used to drive integrations.
+  googleAnalytics = "UA-70241202-1"
+  gravatarHash = "677b94ebd9f74163b013a821bd34b97a"
 
   # Text for the top menu link, which goes the root URL for the site.
   # Default (if omitted) is "Blog".
   home = "Home"
 
-  # Metadata used to drive integrations.
-  googleAnalytics = "UA-70241202-1"
-  gravatarHash = "677b94ebd9f74163b013a821bd34b97a"
+  # Displays under the author name in the sidebar, keep it short.
+  # You can use markdown here.
+  tagline = "Adventurer and Geek"
 
   # Sidebar social links, these must be full URLs.
   github = "https://github.com/tenfourty"
