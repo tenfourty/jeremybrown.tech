@@ -9,16 +9,19 @@ aliases = "/2013/09/03/checkmate-nokia-outwits-microsoft-in-long-game/"
 
 +++
 
-When I saw the [news about Microsoft Acquir­ing Nokia Devices and Ser­vices][1] this morn­ing my ini­tial reac­tion was one of con­fu­sion, why would one loser acquire another loser? It seems that oth­ers had the [same thought][2] as well:
+{{< tweet 374750282460061696 >}}
 
-[![The Microsoft/Nokia deal visualized](/TheMicrosoftNokiadealvisualized.png)][2]
+
+When I saw the [news about Microsoft Acquir­ing Nokia Devices and Ser­vices][1] this morn­ing my ini­tial reac­tion was one of con­fu­sion, why would one loser acquire another loser? It seems that oth­ers had the [same thought][2] as well.
 
 How­ever as I digest this more I’m start­ing to think that this was part of a larger piece of chess where Nokia has realised for some time that the writ­ing was on the wall for their devices as Android and iOS were busy carv­ing up their for­mi­da­ble mar­ket share.
+
+<!--more-->
 
 Nokia and RIM, who once dom­i­nated the smart­phone mar­ket have been in a [steady decline][3] for quite some time:
 
 
-[![nokia_rim_market_shares_relative](/nokia_rim_market_shares_relative.png)][3]
+[![nokia_rim_market_shares_relative](/img/nokia_rim_market_shares_relative.png)][3]
 
 It seems RIM’s attempt to get out of the funk was the [Black­Berry 10 OS](http://en.wikipedia.org/wiki/BlackBerry_10) which  [hasn’t really worked out too well](http://www.bloomberg.com/news/2013-08-29/morgan-stanley-is-said-to-hold-off-on-blackberry-10-upgrade.html) for them. Nokia on the other hand seemed to take a dif­fer­ent strat­egy, real­is­ing their ancient Sym­bian OS was a pile of dung they decided to do a an about-face and join with Microsoft and [move all their phones onto Win­dows](http://www.microsoft.com/en-us/news/press/2011/feb11/02-11partnership.aspx). Ear­lier this year this move was com­pleted and the [last Sym­bian device](http://www.telegraph.co.uk/technology/nokia/9824179/Nokia-ends-Symbian-era.html) shipped was in mid-2012.
 
