@@ -10,10 +10,11 @@ format = "image"
 
 +++
 
-
-![The Official Opening of Red Hat's Open Innovation Labs Space in London](/img/labsopening/IMG_9479.JPG)
+![The Official Opening of the Open Innovation Labs Space in London](/img/labsopening/IMG_9479.JPG)
 
 I've not written much about coming back to Red Hat to head up the Open Innovation Labs in EMEA, but somehow it seemed fitting to author a blog post to mark a momentous last week. Last week we held the official opening events for Red Hat's [Open Innovation Labs space in London](https://www.redhat.com/en/about/press-releases/red-hat-open-innovation-labs-opens-london-jumpstart-application-development-open-source-and-devops) and on Tuesday of this week our first customer working in the space, [Motability Operations](http://www.motabilityoperations.co.uk/), held their Demo Day to show off what they had built in their four-week residency to their business sponsors.
+
+<!--more-->
 
 [Red Hat's Open Innovation Labs](https://www.redhat.com/en/explore/open-innovation-labs) have been [open for just over a year](http://servicesblog.redhat.com/2016/04/20/driving-innovation-through-red-hat-services/), since it [was launched](https://www.redhat.com/en/about/press-releases/red-hat-launches-red-hat-open-innovation-labs-introducing-collaborative-open-source-cloud-and-devops-residency-program#) at the Open Stack Summit in Austin and we've had a prototype space in Mountain View where we've hosted our first residencies as well as hosting residencies in pop-up locations around the world. However, London is our first purpose-built location to open and will soon be followed by a much larger space in Boston and then another in Singapore.
 
