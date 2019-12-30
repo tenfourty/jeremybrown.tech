@@ -2,7 +2,7 @@
 categories = ["Blog Posts", "Personal", "Work"]
 date = "2019-09-01T09:00:51+02:00"
 draft = "false"
-description = ""
+description = "While leaving Red Hat (again) was definitely an emotional experience, I'm also really excited about the next chapter with Traveldoo."
 keywords = []
 title = "Starting The Next Chapter With Traveldoo"
 type = "post"
