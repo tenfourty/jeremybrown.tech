@@ -26,13 +26,13 @@ I can honestly say that being part of this team for the last few years has been 
 
 {{< figure src="/img/chaos-panic-disaster/labs-team-photo.jpg" caption="Some of the EMEA Labs Team on the balcony of Red Hat's London Office." >}}
 
-#Labs Residency
+## Labs Residency
 
 As a team we have built the best consulting product I have ever seen, the [Labs Residency](https://www.redhat.com/en/services/consulting/open-innovation-labs). It helps teams "do" DevOps with Red Hat technologies and results in "residents" regularly saying this was the best work experience of their careers!
 
 We have seen teams completely transformed in just a few weeks by going through a residency and then taking that flame back into their own organisations to spread the change.
 
-#DevOps Culture and Practice Enablement
+## DevOps Culture and Practice Enablement
 
 We didn’t stop there! We also built what I believe is the best DevOps Enablement in the world. Three facilitators (an Engagement Lead, a Techie and a UX expert) with kit bags brimming full of real world experience and stories take a class through an unforgettable experience!
 
@@ -42,13 +42,13 @@ We are currently tracking a high 90s NPS for this course worldwide! This is just
 
 I believe it is unbelievably good value too. Find out more about the [DO500: DevOps Culture and Practice Enablement](https://www.redhat.com/en/services/training/do500-devops-culture-and-practice-enablement) we built and more importantly enrol today for upcoming runs (seats are still available in September)
 
-#It is all Open Source!
+## It is all Open Source!
 
 We have been true to the "Open" that is in our title, all of the practices we use and the whole training course are fully open source!
 
 I believe the team I leave behind are going to go on and do even greater things and I can’t wait to see where the emerging offerings they are working and experimenting with around early product discovery, open leadership and transformation at scale end up!
 
-#Thank You
+## Thank You
 
 To the many amazing customers that trusted us over the last few years, THANK YOU! It has been an amazing pleasure to be part of your journey! We could not have done this without your trust and feedback. Our teams have built such a great connection between them and your stories are amazing, let’s get more of them out there so others can learn from what we learnt.
 
