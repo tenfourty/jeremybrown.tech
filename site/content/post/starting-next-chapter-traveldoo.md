@@ -20,7 +20,7 @@ As a new father I have had some time to reflect on what life is about, and one o
 
 Like you, I have been approached on LinkedIn about roles, though I rarely bite. However, when a recruiter from Expedia got in touch with me about a CTO role, I was intrigued. Being a new father has brought about a change in my priorities on work-life balance and desire to be around for my family more so the thought of being a little less on the road definitely helped open me up to the possibility of new opportunities. The role was Chief Technology Officer at [Traveldoo](https://traveldoo.com/) (a subsidiary of [Expedia Group](https://www.expediagroup.com/about)). Being a CTO of a product organisation has always been my dream job. Traveldoo is a start-up that was acquired by Expedia Group some years ago to complement the group's business - Traveldoo does both Travel management and Expense management an interesting and natural combination.
 
-{{< figure src="/img/starting-next-chapter-traveldoo/traveldoo-logo.png" caption="Traveldoo" >}}
+{{< figure src="/img/starting-next-chapter-traveldoo/traveldoo-logo.png" >}}
 
 As I got to know the leadership team, the product and technology organisation at Traveldoo through the interview process I started to realise that this was a special company. Part French and part American, a start-up and yet part of the Expedia Group, the largest travel company in the world. I began to realise that I might be able to continue to fulfil my personal purpose serving the folks working in this organisation and to be part of what they were building.
 
