@@ -1,7 +1,7 @@
 +++
 categories = ["Blog Posts", "Personal", "Work"]
 date = "2019-08-31T09:00:51+02:00"
-draft = "true"
+draft = "false"
 description = "Chaos, panic, disaster! I think my work here is done. This is what what was written on the t-shirt my team gave me as I prepared to present my final business update to the team at our quarterly team meeting. These have been poignant moments as I finish up in my current role as Director of Red Hat’s Open Innovation Labs in EMEA this week. It was great to leave on a high with our best ever quarter, the business is on a roll!"
 keywords = []
 title = "Chaos, panic, disaster! I think my work here is done."
