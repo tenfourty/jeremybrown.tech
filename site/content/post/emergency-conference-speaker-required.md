@@ -22,4 +22,4 @@ Here are my slides: [Open Source and Secu­rity: Engi­neer­ing Secu­rity by 
 
 {{< slideshare 10532999 >}}
 
- [1]: http://www.slideshare.net/tenfourty/open-source-and-security-engineering-security-by-design-prague-december-2011
+ [1]: https://www.slideshare.net/tenfourty/open-source-and-security-engineering-security-by-design-prague-december-2011
