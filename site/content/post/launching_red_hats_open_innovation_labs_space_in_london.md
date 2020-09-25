@@ -1,5 +1,5 @@
 +++
-categories = ["Blog Posts", "Personal", "Work"]
+categories = ["Blog Posts", "Personal", "Work", "Red Hat"]
 date = "2017-05-25T16:32:51+02:00"
 draft = "false"
 description = "I've not written much about coming back to Red Hat to head up the Open Innovation Labs in EMEA, but somehow it seemed fitting to author a blog post to mark a momentous last week. Last week we held the official opening events for Red Hat's Open Innovation Labs space in London and on Tuesday of this week our first customer working in the space, Motability Operations, held their Demo Day to show off what they had built in their four-week residency to their business sponsors."

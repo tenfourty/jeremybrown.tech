@@ -1,6 +1,6 @@
 +++
 author = "Jeremy Brown"
-categories = ["Blog Posts", "Personal", "Work", "APIs"]
+categories = ["Blog Posts", "Personal", "Work", "APIs", "Apigee"]
 date = "2015-05-27"
 dsq_thread_id = [3797662898]
 format = "image"
