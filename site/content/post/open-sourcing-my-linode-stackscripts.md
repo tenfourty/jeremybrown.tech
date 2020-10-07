@@ -1,12 +1,15 @@
 +++
-author = "Jeremy Brown"
 categories = ["Blog Posts", "Technology"]
-date = "2011-11-30"
-dsq_thread_id = [2097791482]
-layout = "post"
-short-url = ["http://bit.ly/t9iD0L"]
+
+Tags = ["Linode", "Open Source"]
+Description = "I’ve used Linode StackScripts for a while and decided to open source these scripts to make them pub­licly avail­able on github feel free to fork and update these or let me know of your vari­a­tions on these on Linode’s StackScripts library"
+date = "2011-11-30T15:08:39+02:00"
+draft = "false"
+keywords = ["Linode", "Open Source"]
 title = "Open Sourcing my Linode StackScripts"
+aliases = ["/2011/11/30/open-sourcing-my-linode-stackscripts/"]
 type = "post"
+dsq_thread_id = [2097791482]
 
 +++
 
