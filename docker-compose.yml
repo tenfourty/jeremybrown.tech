@@ -5,6 +5,6 @@ services:
     build: .
     image: tenfourty/tenfourty.com
     volumes:
-    - ./site:/site
+      - /home/tenfourty/src/tenfourty.com/site:/site:ro,z
     ports:
     - "1313:1313"
