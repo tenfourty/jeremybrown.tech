@@ -1,2 +1,2 @@
-FROM tenfourty/docker-hugo-alpine-onbuild
+FROM tenfourty/hugo-alpine-onbuild
 MAINTAINER Jeremy Brown <jeremy@tenfourty.com>
