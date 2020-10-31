@@ -97,11 +97,7 @@ If you want to keep riding mainly on roads and want more slick tyres I recommend
 
 [Andre and I at the afterparty](https://www.instagram.com/p/BK2hmhkhfiB/)
 
-<!--{{< instagram BK2hmhkhfiB >}}-->
-
 Here is what the [WTB Horizons look like on Andre's Slate](https://www.instagram.com/p/BLDw9Dfj4jG/).
-
-<!--{{< instagram BLDw9Dfj4jG >}}-->
 
 #### 5 - Saddle - Brooks Cambium C-13
 
