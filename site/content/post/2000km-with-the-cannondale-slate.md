@@ -95,11 +95,13 @@ The ultimate test for the G-Ones so far has been the [La Resistance challenge](h
 
 If you want to keep riding mainly on roads and want more slick tyres I recommend the [WTB Horizons](http://www.wtb.com/products/horizon), they are 650bx47mm - yes you read that correctly, these are FAT tyres. Andre from [@chimpbars](https://www.instagram.com/chimpbars/) has them on his Slate, he was the fastest rider over the whole La Resistance course so they can definitely handle gravel.
 
-{{< instagram BK2hmhkhfiB >}}
+[Andre and I at the afterparty](https://www.instagram.com/p/BK2hmhkhfiB/)
 
-Here is what the WTB Horizons look like on Andre's Slate.
+<!--{{< instagram BK2hmhkhfiB >}}-->
 
-{{< instagram BLDw9Dfj4jG >}}
+Here is what the [WTB Horizons look like on Andre's Slate](https://www.instagram.com/p/BLDw9Dfj4jG/).
+
+<!--{{< instagram BLDw9Dfj4jG >}}-->
 
 #### 5 - Saddle - Brooks Cambium C-13
 
