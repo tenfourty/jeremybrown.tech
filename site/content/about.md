@@ -7,7 +7,7 @@ title = "About Me"
 
 +++
 
-#technology #running #cycling #snowsports #motorbikes #travel #beer
+#technology #culture #running #cycling #snowsports #motorbikes #travel
 
 ![Profile Picture](/ProfilePicture.jpg)
 
