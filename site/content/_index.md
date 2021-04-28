@@ -1,9 +1,7 @@
 +++
-author = "Jeremy Brown"
-date = "2010-11-13"
 type = "page"
 menu = "main"
-title = "JeremyBrown.tech"
+title = "Jeremy Brown"
 
 +++
 
