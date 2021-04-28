@@ -10,3 +10,399 @@
   # path as the one defined in the `from` property. Setting `force` to `true`
   # will make the redirect rule take precedence over any existing files.
   force = true
+
+[[redirects]]
+  from = "/2010/11/14/tenfourty.com-on-the-way-back-machine/"
+  to = "https://world.hey.com/jeremybrown/tenfourty-com-on-the-way-back-machine-55849418"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2010/11/17/how-to-optimise-wordpress-performance-for-search-ranking/"
+  to = "https://world.hey.com/jeremybrown/how-to-optimise-wordpress-performance-for-search-ranking-93052c3e"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2010/11/19/do-cameroonian-isps-care-about-their-customers/"
+  to = "https://world.hey.com/jeremybrown/do-cameroonian-isps-care-about-their-customers-33816cfc"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2010/11/27/cheap-and-easy-cloud-cracking-on-theway/"
+  to = "https://world.hey.com/jeremybrown/cheap-and-easy-cloud-cracking-on-the-way-9b64ef6f"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2011/04/09/how-to-load-balance-tcp-connections-with-haproxy/"
+  to = "https://world.hey.com/jeremybrown/how-to-load-balance-tcp-connections-with-haproxy-0e813a6a"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2011/07/09/how-to-switch-from-centos-5.6-to-scientific-linux5.6/"
+  to = "https://world.hey.com/jeremybrown/how-to-switch-from-centos-5-6-to-scientific-linux-5-6-4e89a947"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2011/11/30/open-sourcing-my-linode-stackscripts/"
+  to = "https://world.hey.com/jeremybrown/open-sourcing-my-linode-stackscripts-7ac59294"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2011/12/09/emergency-conference-speaker-required/"
+  to = "https://world.hey.com/jeremybrown/emergency-conference-speaker-required-68dc1a9c"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2011/12/10/jboss-world-2012-abstract-submitted/"
+  to = "https://world.hey.com/jeremybrown/jboss-world-2012-abstract-submitted-74f8226a"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2013/08/27/is-rssdying/"
+  to = "https://world.hey.com/jeremybrown/is-rss-dying-368ae5e3"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2013/08/28/the-evolution-of-paas-and-how-this-site-wassetup/"
+  to = "https://world.hey.com/jeremybrown/the-evolution-of-paas-and-how-this-site-was-setup-36bd4f9b"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2013/08/29/calculate-the-business-benefits-ofpaas/"
+  to = "https://world.hey.com/jeremybrown/calculate-the-business-benefits-of-paas-2548b284"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2013/09/03/checkmate-nokia-outwits-microsoft-in-the-longgame/"
+  to = "https://world.hey.com/jeremybrown/checkmate-nokia-outwits-microsoft-in-the-long-game-adc04e90"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2013/09/27/docker-red-hat-openshift-tipping-point-open-paas/"
+  to = "https://world.hey.com/jeremybrown/docker-red-hat-openshift-the-tipping-point-for-open-paas-8430aaa2"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2014/09/10/why-im-moving-my-desktop-from-os-x-to-fedora-linux/"
+  to = "https://world.hey.com/jeremybrown/why-i-m-moving-my-desktop-from-os-x-to-fedora-linux-d786adf8"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2014/10/09/how-to-install-zimbra-desktop-on-fedora/"
+  to = "https://world.hey.com/jeremybrown/how-to-install-zimbra-desktop-on-fedora-7b9435c3"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2015/05/26/fixing-the-fonts-on-my-new-macbook-pro-13-retina-on-external-displays/"
+  to = "https://world.hey.com/jeremybrown/fixing-the-fonts-on-my-new-macbook-pro-13-retina-on-external-displays-1c935ce0"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2015/05/27/apigee-not-apogee/"
+  to = "https://world.hey.com/jeremybrown/apigee-not-apogee-5061e87f"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2015/05/31/ansible-tip-running-interactive-scripts-with-ansible/"
+  to = "https://world.hey.com/jeremybrown/ansible-tip-running-interactive-scripts-with-ansible-150f8863"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2015/07/27/how-to-run-openshift-v3-on-an-existing-kubernetes-cluster/"
+  to = "https://world.hey.com/jeremybrown/how-to-run-openshift-v3-on-an-existing-kubernetes-cluster-2ac8b453"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2015/11/16/moving-from-wordpress-to-a-static-site-using-hugo-and-netlify/"
+  to = "https://world.hey.com/jeremybrown/moving-from-wordpress-to-a-static-site-using-hugo-and-netlify-968866c0"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2016/06/08/building-the-ultimate-home-media-center-with-the-new-appletv-4-plex/kodi-and-a-qnap-nas/"
+  to = "https://world.hey.com/jeremybrown/building-the-ultimate-home-media-center-with-the-new-appletv-4-plex-kodi-and-a-qnap-nas-07751cda"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2016/06/23/why-im-voting-remain-no-matter-how-painful-it-feels/"
+  to = "https://world.hey.com/jeremybrown/why-i-m-voting-remain-no-matter-how-painful-it-feels-8cbab3d2"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2016/07/13/new-openapi-specification-shortcode-for-hugo/"
+  to = "https://world.hey.com/jeremybrown/new-openapi-specification-shortcode-for-hugo-8e17f229"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2016/12/19/how-to-stop-the-bluejeans-app-for-mac-using-all-of-your-cpu-and-battery/"
+  to = "https://world.hey.com/jeremybrown/how-to-stop-the-bluejeans-app-for-mac-using-all-of-your-cpu-and-battery-f8eb4295"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2016/12/29/2000-km-with-the-cannondale-slate/"
+  to = "https://world.hey.com/jeremybrown/2000-km-with-the-cannondale-slate-ad5cbe01"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2017/01/19/a-review-of-deep-work-by-cal-newport/"
+  to = "https://world.hey.com/jeremybrown/a-review-of-deep-work-by-cal-newport-704e40e3"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2017/02/04/a-short-book-review-of-the-shepherds-life-by-james-rebanks/"
+  to = "https://world.hey.com/jeremybrown/a-short-book-review-of-the-shepherd-s-life-by-james-rebanks-9898908e"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2017/05/25/launching-red-hats-open-innovation-labs-space-in-london/"
+  to = "https://world.hey.com/jeremybrown/launching-red-hat-s-open-innovation-labs-space-in-london-894ff03d"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2019/08/31/chaos-panic-disaster-i-think-my-work-here-is-done./"
+  to = "https://world.hey.com/jeremybrown/chaos-panic-disaster-i-think-my-work-here-is-done-a692780e"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2019/09/01/starting-the-next-chapter-with-traveldoo/"
+  to = "https://world.hey.com/jeremybrown/starting-the-next-chapter-with-traveldoo-c0c44bc4"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2020/03/09/cto-update---going-global/"
+  to = "https://world.hey.com/jeremybrown/cto-update-going-global-b9352605"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
+[[redirects]]
+  from = "/2020/05/12/a-sit-down-with-jeremy-brown-chief-technology-officer-at-traveldoo/"
+  to = "https://world.hey.com/jeremybrown/a-sit-down-with-jeremy-brown-chief-technology-officer-at-traveldoo-08b16963"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
