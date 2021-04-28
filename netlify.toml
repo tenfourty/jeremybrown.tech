@@ -15,6 +15,19 @@
   # Default build command.
   command = "hugo --source site --config site/config.toml"
 
+# redirect rules for the other domain aliases to my, new, main domain
+[[redirects]]
+  from = "https://www.tenfourty.com/"
+  to = "https://www.jeremybrown.tech/"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+
 # redirect rules for this site to my new blog location
 [[redirects]]
   from = "/about/"
