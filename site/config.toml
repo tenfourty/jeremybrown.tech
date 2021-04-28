@@ -1,8 +1,8 @@
 i18nDir = "i18n"
 baseURL = "https://www.tenfourty.com"
 title = "tenfourty.com"
-disqusShortname = "tenfourty"
-GoogleAnalytics = "UA-70241202-1"
+#disqusShortname = "tenfourty"
+#GoogleAnalytics = "UA-70241202-1"
 theme = "hyde-x"
 paginate = "20"
 
