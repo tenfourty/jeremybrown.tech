@@ -21,10 +21,10 @@ DefaultContentLanguage = "en"
 [permalinks]
   post = "/:year/:month/:day/:title/"
 
-[taxonomies]
-  # Optional. Use if you want tags and lists.
-  category = "categories"
-  tag = "tags"
+#[taxonomies]
+#  # Optional. Use if you want tags and lists.
+#  category = "categories"
+#  tag = "tags"
 
 [params]
   # If false display full article contents in blog index.
