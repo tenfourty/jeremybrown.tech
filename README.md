@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/da732758-ffc5-4228-9786-d1190a890e97/deploy-status)](https://app.netlify.com/sites/tenfourty-com/deploys)
+
 # tenfourty.com
 The source for http://www.tenfourty.com/
 
