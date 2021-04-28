@@ -1,6 +1,6 @@
 i18nDir = "i18n"
 baseURL = "https://www.tenfourty.com"
-title = "tenfourty.com"
+title = "Jeremy Brown"
 #disqusShortname = "tenfourty"
 #GoogleAnalytics = "UA-70241202-1"
 theme = "hyde-x"
