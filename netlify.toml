@@ -17,6 +17,18 @@
 
 # redirect rules for this site to my new blog location
 [[redirects]]
+  from = "/about/"
+  to = "/"
+
+  # Permanent redirect
+  status = 301
+
+  # By default, redirects won’t be applied if there’s a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  force = true
+  
+[[redirects]]
   from = "/2010/11/13/relaunching-tenfourty.com/"
   to = "https://world.hey.com/jeremybrown/relaunching-tenfourty-com-e403f32e"
 
