@@ -53,7 +53,7 @@ DefaultContentLanguage = "en"
   customCSS = "/css/sharingbuttons.css"
 
   # Metadata used to drive integrations.
-  googleAnalytics = "UA-70241202-1"
+  #googleAnalytics = "UA-70241202-1"
   gravatarHash = "677b94ebd9f74163b013a821bd34b97a"
 
   # Text for the top menu link, which goes the root URL for the site.
