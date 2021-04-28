@@ -2,6 +2,8 @@
 type = "page"
 menu = "main"
 title = "Jeremy Brown"
+description = "jeremybrown.tech is the homepage of Jeremy Brown"
+keywords = "tenfourty,jeremy brown,jeremy,jeremybrown.tech"
 
 +++
 
