@@ -1,12 +1,12 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/da732758-ffc5-4228-9786-d1190a890e97/deploy-status)](https://app.netlify.com/sites/tenfourty-com/deploys)
 
-# tenfourty.com
-The source for http://www.tenfourty.com/
+# jeremybrown.tech
+The source for https://www.jeremybrown.tech/
 
 This is a hugo site, hosted on and automatically built by Netlify.
 
 To create a new post:
-> $ docker-compose run --rm tenfourty.com hugo new post/good-to-great.md
+> $ docker-compose run --rm jeremybrown.tech hugo new post/good-to-great.md
 
 To run this site locally:
 > $ docker-compose up
@@ -19,7 +19,7 @@ To run a similar setup to production locally (nginx) run the following command -
 The site will be available at http://localhost:1313/
 
 Or to build the image run:
-> $ docker build -t tenfourty/tenfourty.com .
+> $ docker build -t tenfourty/jeremybrown.tech .
 
 And then to run it as a daemon run:
-> $ docker run -d -p 1313:1313 -v [path to this dir]/site/:/site -name tenfourty.com tenfourty/tenfourty.com
+> $ docker run -d -p 1313:1313 -v [path to this dir]/site/:/site -name jeremybrown.tech tenfourty/jeremybrown.tech
