@@ -1,7 +1,7 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      {{ with .Site.Params.libravatarHash }}<img src="https://cdn.libravatar.org/avatar/{{ . }}?s=200" alt="profile picture" title="{{ .Site.Author.name }}">{{ end }}
+      {{ with .Site.Params.libravatarHash }}<img src="https://seccdn.libravatar.org/avatar/{{ . }}?s=200" alt="profile picture" title="{{ .Site.Author.name }}">{{ end }}
       <h3>{{ .Site.Author.name }}</h3>
       {{ with .Site.Params.tagline }}<p class="lead">{{ . | markdownify }}</p>{{ end }}
     </div>
