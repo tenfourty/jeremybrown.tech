@@ -54,7 +54,7 @@ DefaultContentLanguage = "en"
 
   # Metadata used to drive integrations.
   #googleAnalytics = "UA-70241202-1"
-  libravatarHash = "d5144b24d1fb3d6eb699ccf745005a01480c139646d87e923b1f16bf960aa2b5"
+  libravatarHash = "7f8f6853987fd00e319a1fa2ebcdf24e"
 
   # Text for the top menu link, which goes the root URL for the site.
   # Default (if omitted) is "Blog".
