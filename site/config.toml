@@ -70,9 +70,10 @@ DefaultContentLanguage = "en"
   stackOverflow = ""
   linkedin = "https://www.linkedin.com/in/tenfourty"
   googleplus = ""
+  instagram = "https://www.instagram.com/tenfourty/"
   facebook = "https://facebook.com/tenfourty"
   twitter = "https://twitter.com/tenfourty"
-  youtube = ""
+  youtube = "https://www.youtube.com/channel/UCwadHv7P5RqjG4a8n-jsUCg"
 
   # Other social-like sidebar links
   rss = true  # switch to true to enable RSS icon link
