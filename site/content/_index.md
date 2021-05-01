@@ -13,7 +13,7 @@ keywords = "tenfourty,jeremy brown,jeremy,jeremybrown.tech"
 
 Hi, nice to meet you!
 
-I occasionally [blog](https://world.hey.com/jeremybrown), I'm sometimes active on [Twitter](https://twitter.com/tenfourty) and if you know me personally feel free to add me on [Facebook](https://facebook.com/tenfourty).
+I occasionally [blog](https://world.hey.com/jeremybrown), I'm sometimes active on [Twitter](https://twitter.com/JeremyBrownTech) and if you know me personally feel free to add me on [Facebook](https://facebook.com/tenfourty).
 
 **CV for humans**
 
