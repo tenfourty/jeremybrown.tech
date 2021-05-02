@@ -8,7 +8,7 @@ sections:
   path: site/content/_index.md
   label: index
   match: "**/*"
-upload_dir: ''
+upload_dir: site/static
 public_path: ''
 front_matter_path: ''
 use_front_matter_path: false
