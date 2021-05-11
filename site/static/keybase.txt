@@ -4,36 +4,56 @@ https://keybase.io/tenfourty
 
 I hereby claim:
 
-  * I am an admin of https://www.tenfourty.com
+  * I am an admin of https://www.jeremybrown.tech
   * I am tenfourty (https://keybase.io/tenfourty) on keybase.
-  * I have a public key with fingerprint 9BD8 DA8A 84E5 923E 8F53  D9A2 D0C3 7DC7 1823 3E6F
+  * I have a public key ASDF3KZ_H8IDY_jVWvXLWLfQXuFhfnXF8FUBRcAUr98UTAo
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "01015ac73d2ba10ea7b43c36f7bd7a77d6cc5eb0db2326bd77f839601e4887e0cec70a",
-            "fingerprint": "9bd8da8a84e5923e8f53d9a2d0c37dc718233e6f",
-            "host": "keybase.io",
-            "key_id": "d0c37dc718233e6f",
-            "kid": "01015ac73d2ba10ea7b43c36f7bd7a77d6cc5eb0db2326bd77f839601e4887e0cec70a",
-            "uid": "e30c8ce8fd9c86fb1206e9a602108619",
-            "username": "tenfourty"
-        },
-        "service": {
-            "hostname": "www.tenfourty.com",
-            "protocol": "https:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "01015ac73d2ba10ea7b43c36f7bd7a77d6cc5eb0db2326bd77f839601e4887e0cec70a",
+      "host": "keybase.io",
+      "kid": "0120c5dca67f1fc20363f8d55af5cb58b7d05ee1617e75c5f0550145c014afdf144c0a",
+      "uid": "e30c8ce8fd9c86fb1206e9a602108619",
+      "username": "tenfourty"
     },
-    "ctime": 1473153205,
-    "expire_in": 157680000,
-    "prev": "13d84583da9a33df364cbe88d8af0a4895f1fed8c7b12d26895942bffe53fe21",
-    "seqno": 7,
-    "tag": "signature"
+    "merkle_root": {
+      "ctime": 1620726188,
+      "hash": "719a3cadc0794e65e4f5e1d507b87e26f59a5d3669e1211e971cf786278fbedf19b09e8e30121eb66b659f3cba4b2db11c070dc2451590048d16abcc0a31f994",
+      "hash_meta": "b371ce0c7ce940b73b3efe465c19449d045bc7a9565f79cbe1bc7013492977a9",
+      "seqno": 19906053
+    },
+    "service": {
+      "entropy": "T8yKhnYkBu/5MQUTWIN7EFuY",
+      "hostname": "www.jeremybrown.tech",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1620726204,
+  "expire_in": 504576000,
+  "prev": "68b872ad8232c11192a86c4ac3c2cb5c9aa32f0c4bdb32a516278af0bf825e2b",
+  "seqno": 21,
+  "tag": "signature"
 }
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxdymfx/CA2P41Vr1y1i30F7hYX51xfBVAUXAFK/fFEwKp3BheWxvYWTESpcCFcQgaLhyrYIywRGSqGxKw8LLXJqjLwxL2zKlFieK8L+CXivEIE4AkQi4fTWkhOEN8qVWNRNw9hcnNikD1OjfAJNw9tP3AgHCo3NpZ8RAICTbfgdSCVGvb/agnZ2I1urgtKie8x0/+He3QrniUubTJlYSIkGsNz8h1vzEi+PtqdBkRXUI3oyHD4SkJ4B/CqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEXFkNA98nnmY1+h7+pZ6PIvE60WhvMga1HsbCdiNC/Ao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tenfourty
+
+==================================================================
 
 which yields the signature:
 
