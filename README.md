@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/da732758-ffc5-4228-9786-d1190a890e97/deploy-status)](https://app.netlify.com/sites/tenfourty-com/deploys)
+## Archived - I've moved my hosting over to Ghost.org to take advantage of some of it's features as I pivot this website.
 
 # jeremybrown.tech
 The source for https://www.jeremybrown.tech/
